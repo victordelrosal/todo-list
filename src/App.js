@@ -19,7 +19,7 @@ function App() {
           value={input}
           onChange={(e) => setInput(e.target.value)}
           type="text"
-          placeholder="Add a new task"
+          placeholder="Add a newer task"
         />
         <button type="submit">Add</button>
       </form>
